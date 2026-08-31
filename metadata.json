@@ -1,0 +1,8 @@
+{
+  "name": "VoXdev ai pro v1.1",
+  "description": "An advanced text-to-speech agent that analyzes Bengali text context and generates expressive audio in various styles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
